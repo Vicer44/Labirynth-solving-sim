@@ -1,3 +1,4 @@
+VERY EARLY DEVELOPMENT
 # Labirynth-solving-sim
 Labirynth solving simulator Uses Anim8 Liblary
 Currently need love2d installed on PC 
